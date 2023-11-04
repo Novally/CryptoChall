@@ -1,4 +1,4 @@
-from pwn import remote
+from pwn import *
 
 # Paste nc: 
 host = ""
